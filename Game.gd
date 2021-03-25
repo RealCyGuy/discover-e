@@ -19,7 +19,7 @@ func _process(delta):
 	if ! stop:
 		speed += delta
 		time += delta
-		$Menu/Time.text = str(round(time))
+		$Menu/Fade/Time.text = str(round(time))
 
 
 func _on_e():
