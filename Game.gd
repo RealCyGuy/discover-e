@@ -34,7 +34,7 @@ func _on_lose():
 func create_line():
 	var line = LINE.instance()
 	add_child(line)
-	var pos = 2
+	var pos = 5
 	while pos < rect_size.x:
 		var letters = WORD_LIST[randi() % WORD_LIST.size()] + " "
 		var bold = false
