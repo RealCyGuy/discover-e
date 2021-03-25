@@ -10,7 +10,7 @@ func _pressed():
 		emit_signal("e")
 		remove_from_group("unclicked_e")
 		bold()
-		$Audio.play()
+		GlobalClick.play()
 
 
 func bold():
