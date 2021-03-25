@@ -21,6 +21,7 @@ run/main_scene="res://Game.tscn"
 [autoload]
 
 WordList="*res://Word List.gd"
+GlobalClick="*res://GlobalClick.tscn"
 
 [display]
 
