@@ -20,7 +20,7 @@ run/main_scene="res://MainMenu.tscn"
 
 [autoload]
 
-WordList="*res://Word List.gd"
+WordList="*res://WordList.gd"
 GlobalClick="*res://GlobalClick.tscn"
 
 [display]
