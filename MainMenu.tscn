@@ -65,10 +65,10 @@ __meta__ = {
 }
 
 [node name="Link" type="Button" parent="."]
-margin_left = 848.0
-margin_top = 536.0
-margin_right = 1000.0
-margin_bottom = 584.0
+margin_left = 832.0
+margin_top = 512.0
+margin_right = 968.0
+margin_bottom = 552.0
 hint_tooltip = "https://realcyguy.netlify.app"
 mouse_default_cursor_shape = 2
 theme = SubResource( 2 )
