@@ -6,6 +6,8 @@ func _ready():
 
 func _on_play():
 	get_tree().change_scene("res://Game.tscn")
+	GlobalClick.play()
 
 func _on_link():
 	OS.shell_open("https://realcyguy.netlify.app")
+	GlobalClick.play()

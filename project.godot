@@ -22,6 +22,7 @@ run/main_scene="res://MainMenu.tscn"
 
 WordList="*res://WordList.gd"
 GlobalClick="*res://GlobalClick.tscn"
+Music="*res://Music.tscn"
 
 [display]
 
